@@ -2,3 +2,8 @@ img {
   width: 10px;
   height: 10px;
 }
+navbar {
+  background: #000;
+  color: aliceblue;
+  width: auto;
+}
